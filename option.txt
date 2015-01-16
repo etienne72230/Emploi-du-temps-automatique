@@ -1,0 +1,8 @@
+TD n° (A: 1 / B: 2):
+2
+Panorama(Chimie:1 / Maths: 2 / Physique1: 3 / Physique2: 4):
+3
+UE à Choix (Panorama du vivant: 1 / Planète Terre: 2):
+2
+Temps entre les clics :
+1.5
